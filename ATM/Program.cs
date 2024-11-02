@@ -12,7 +12,7 @@ namespace ATM
     {
         static void Main(string[] args)
         {
-            
+            AccountClass account1 = new AccountClass();
         }
     }
 }
